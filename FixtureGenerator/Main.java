@@ -1,11 +1,11 @@
 package FixtureGenerator;
 
 import java.util.ArrayList;
-import java.util.Collections;
+
 import java.util.LinkedHashMap;
-import java.util.LinkedList;
+
 import java.util.List;
-import java.util.Random;
+
 import java.util.Scanner;
 
 public class Main {
@@ -88,7 +88,7 @@ public class Main {
             }
             System.out.println();
         }
-
+    input.close();
     }
     
 }
