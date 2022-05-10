@@ -1,4 +1,4 @@
-package ThreadsRace;
+package RaceOfThreads;
 
 import java.util.ArrayList;
 
