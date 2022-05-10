@@ -15,7 +15,6 @@ public class Race implements Runnable{
         synchronized (LOCK){
         oddEven(this.list);
         }
-
     }
 
     public synchronized void oddEven(List<Integer> a){
