@@ -24,7 +24,6 @@ public class Main {
         numbs3.addAll(numbers.subList(5000,7500));
         numbs4.addAll(numbers.subList(7500,10000));
 
-
         Race r1 = new Race(numbs1);
         Race r2 = new Race(numbs2);
         Race r3 = new Race(numbs3);
