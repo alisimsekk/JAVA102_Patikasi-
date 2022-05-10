@@ -4,7 +4,7 @@
 
 - 4 Thread bulduğu çift sayıları ortak bir ArrayList'e ekleyecektir.
 
-- 4 Thread bulduğu tek sayıları ortak bir ArrayList'e ekleyecektir.
+- 4 Thread bulduğu tek sayıları ortak bir ArrayList'e ekleyecektir. 
 
 - Tek ve çift sayıları tutan ArrayList'ler ilk oluşturulduklarında boş olacaklardır. Ve iki tane ArrayList olacaklardır.
 

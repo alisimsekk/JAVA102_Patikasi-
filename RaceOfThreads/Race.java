@@ -1,5 +1,4 @@
 package RaceOfThreads;
-
 import java.util.*;
 
 public class Race implements Runnable{
